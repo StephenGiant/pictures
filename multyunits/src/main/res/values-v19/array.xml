@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ERP_Function">
+        <item>货位查询</item> 
+        <item>库存盘点</item>  
+        <item>成品拣货</item>
+        <item>订单复核</item>
+        <item>详细核单</item>
+        <item>单据打印</item>
+        <item>回收功能</item>
+        <item>称重功能</item>
+        <item>指令下架</item>
+        <item>补货上架</item>
+        <item>上架查询</item>
+        <item>损溢</item>
+        <item>正常仓\n商品货位关联</item>
+        <item>分拣仓\n商品货位关联</item>
+        <item>分拣仓\n货位查询</item>
+         <item>原料上架</item>
+        <item>货位搬迁</item>
+        <item >绑定货位</item>
+        <item >箱号绑定</item>
+        <item> 订单检验</item>
+    </string-array>
+    <string-array name="spinnername">
+        <item>正常仓</item>
+        <item>残次仓</item>
+        <item>赠品仓</item>
+        <item>加工仓</item>
+        <item>分拣仓 </item>
+    </string-array>
+     <string-array name="spinnername1">
+        <item>环节:仓储</item>
+        <item>环节:采购</item>
+        <item>环节:物流</item>
+        <item>环节:销售</item>
+    </string-array>
+    <string-array name="spinnername2">
+        <item>原因:自然</item>
+        <item>原因:质量</item>
+        <item>原因:仓配领用</item>
+        <item>原因:望湘园</item>
+        <item>原因:地推报损</item>
+        <item>原因:化验室</item>
+        <item>原因:仓配领用</item>
+        <item>原因:退单回库</item>
+        <item>原因:我厨总公司</item>
+        <item>原因:物流员工餐</item>
+        <item>原因:研发领用</item>
+        <item>原因:过期报废</item>
+        <item>原因:内部领用</item>
+        <item>原因:产品部领用</item>
+        <item>原因:配送部领用</item>
+    </string-array>
+     <string-array name="spinnerOnShelves">
+         <item>请选择上架原因</item>
+        <item>原料采购</item>
+        <item>客户退货</item>
+        <item>其它</item>
+    </string-array>
+</resources>
